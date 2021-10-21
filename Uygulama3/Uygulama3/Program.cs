@@ -2,9 +2,26 @@
 
 namespace Uygulama3
 {
-    class Sinif
+    class LogSinifi
     {
-        public void Yazdir<T>(T deger)
+        private string log;
+        public LogSinifi(string log)
+        {
+            this.log = log;
+        }
+        public override string ToString()
+        {
+            return log;
+        }
+    }
+    class Sinif<T>
+    {
+        private T deger;
+        public Sinif(T deger)
+        {
+            this.deger = deger;
+        }
+        public void Yazdir()
         {
             Console.WriteLine(deger);
         }
@@ -13,13 +30,14 @@ namespace Uygulama3
     {
         static void Main(string[] args)
         {
-            int degisken = 235;
-            string degisken2 = "Yazdirilacak bir string";
-            float degisken3 = 3.235f;
-            var x = new Sinif();
-            x.Yazdir(degisken);
-            x.Yazdir(degisken2);
-            x.Yazdir(degisken3);
+            var intSinifim = new Sinif<int>(2394);
+            intSinifim.Yazdir();
+            var stringSinifim = new Sinif<string>("Yazdirilacak bir string");
+            stringSinifim.Yazdir();
+            var floatSinifim = new Sinif<float>(10.0f);
+            floatSinifim.Yazdir();
+            var logSinifim = new Sinif<LogSinifi>(new LogSinifi("Düşen kayıt."));
+            logSinifim.Yazdir();
         }
     }
 }
