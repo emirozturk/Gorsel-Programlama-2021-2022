@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\emiro\OneDrive\Masaüstü\Gorsel-Programlama-2021-2022\Uygulama2\Uygulama2\obj\Debug\net5.0-windows\
+C:\Users\emiro\OneDrive\Masaüstü\Gorsel-Programlama-2021-2022\Uygulama2\Uygulama2\obj\Release\net5.0-windows\
 Uygulama2
 none
 false
-TRACE;DEBUG;NET;NET5_0;NETCOREAPP
+TRACE;RELEASE;NET;NET5_0;NETCOREAPP
 C:\Users\emiro\OneDrive\Masaüstü\Gorsel-Programlama-2021-2022\Uygulama2\Uygulama2\App.xaml
 11407045341
 

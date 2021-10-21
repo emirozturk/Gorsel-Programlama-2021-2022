@@ -1,0 +1,16 @@
+C:\Users\emiro\OneDrive\Masaüstü\Gorsel-Programlama-2021-2022\Uygulama3\Uygulama3\bin\Debug\net5.0\Uygulama3.exe
+C:\Users\emiro\OneDrive\Masaüstü\Gorsel-Programlama-2021-2022\Uygulama3\Uygulama3\bin\Debug\net5.0\Uygulama3.deps.json
+C:\Users\emiro\OneDrive\Masaüstü\Gorsel-Programlama-2021-2022\Uygulama3\Uygulama3\bin\Debug\net5.0\Uygulama3.runtimeconfig.json
+C:\Users\emiro\OneDrive\Masaüstü\Gorsel-Programlama-2021-2022\Uygulama3\Uygulama3\bin\Debug\net5.0\Uygulama3.runtimeconfig.dev.json
+C:\Users\emiro\OneDrive\Masaüstü\Gorsel-Programlama-2021-2022\Uygulama3\Uygulama3\bin\Debug\net5.0\Uygulama3.dll
+C:\Users\emiro\OneDrive\Masaüstü\Gorsel-Programlama-2021-2022\Uygulama3\Uygulama3\bin\Debug\net5.0\ref\Uygulama3.dll
+C:\Users\emiro\OneDrive\Masaüstü\Gorsel-Programlama-2021-2022\Uygulama3\Uygulama3\bin\Debug\net5.0\Uygulama3.pdb
+C:\Users\emiro\OneDrive\Masaüstü\Gorsel-Programlama-2021-2022\Uygulama3\Uygulama3\obj\Debug\net5.0\Uygulama3.csproj.AssemblyReference.cache
+C:\Users\emiro\OneDrive\Masaüstü\Gorsel-Programlama-2021-2022\Uygulama3\Uygulama3\obj\Debug\net5.0\Uygulama3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emiro\OneDrive\Masaüstü\Gorsel-Programlama-2021-2022\Uygulama3\Uygulama3\obj\Debug\net5.0\Uygulama3.AssemblyInfoInputs.cache
+C:\Users\emiro\OneDrive\Masaüstü\Gorsel-Programlama-2021-2022\Uygulama3\Uygulama3\obj\Debug\net5.0\Uygulama3.AssemblyInfo.cs
+C:\Users\emiro\OneDrive\Masaüstü\Gorsel-Programlama-2021-2022\Uygulama3\Uygulama3\obj\Debug\net5.0\Uygulama3.csproj.CoreCompileInputs.cache
+C:\Users\emiro\OneDrive\Masaüstü\Gorsel-Programlama-2021-2022\Uygulama3\Uygulama3\obj\Debug\net5.0\Uygulama3.dll
+C:\Users\emiro\OneDrive\Masaüstü\Gorsel-Programlama-2021-2022\Uygulama3\Uygulama3\obj\Debug\net5.0\ref\Uygulama3.dll
+C:\Users\emiro\OneDrive\Masaüstü\Gorsel-Programlama-2021-2022\Uygulama3\Uygulama3\obj\Debug\net5.0\Uygulama3.pdb
+C:\Users\emiro\OneDrive\Masaüstü\Gorsel-Programlama-2021-2022\Uygulama3\Uygulama3\obj\Debug\net5.0\Uygulama3.genruntimeconfig.cache
