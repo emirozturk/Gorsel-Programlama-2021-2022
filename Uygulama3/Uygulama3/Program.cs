@@ -4,13 +4,9 @@ namespace Uygulama3
 {
     class Sinif
     {
-        public void Yazdir(int deger)
+        public void Yazdir<T>(T deger)
         {
             Console.WriteLine(deger);
-        }
-        public void Yazdir(string metin)
-        {
-            Console.WriteLine(metin);
         }
     }
     class Program
