@@ -23,6 +23,7 @@ namespace Uygulama3
         }
         public void Yazdir()
         {
+
             Console.WriteLine(deger);
         }
     }
