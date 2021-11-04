@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Uygulama5/1.0.0": {
+        "runtime": {
+          "Uygulama5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uygulama5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
