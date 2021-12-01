@@ -1,0 +1,15 @@
+C:\Users\emiro\OneDrive\Masaüstü\LambdaVeLinq\LambdaVeLinq\bin\Debug\net6.0\LambdaVeLinq.exe
+C:\Users\emiro\OneDrive\Masaüstü\LambdaVeLinq\LambdaVeLinq\bin\Debug\net6.0\LambdaVeLinq.deps.json
+C:\Users\emiro\OneDrive\Masaüstü\LambdaVeLinq\LambdaVeLinq\bin\Debug\net6.0\LambdaVeLinq.runtimeconfig.json
+C:\Users\emiro\OneDrive\Masaüstü\LambdaVeLinq\LambdaVeLinq\bin\Debug\net6.0\LambdaVeLinq.dll
+C:\Users\emiro\OneDrive\Masaüstü\LambdaVeLinq\LambdaVeLinq\bin\Debug\net6.0\ref\LambdaVeLinq.dll
+C:\Users\emiro\OneDrive\Masaüstü\LambdaVeLinq\LambdaVeLinq\bin\Debug\net6.0\LambdaVeLinq.pdb
+C:\Users\emiro\OneDrive\Masaüstü\LambdaVeLinq\LambdaVeLinq\obj\Debug\net6.0\LambdaVeLinq.csproj.AssemblyReference.cache
+C:\Users\emiro\OneDrive\Masaüstü\LambdaVeLinq\LambdaVeLinq\obj\Debug\net6.0\LambdaVeLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emiro\OneDrive\Masaüstü\LambdaVeLinq\LambdaVeLinq\obj\Debug\net6.0\LambdaVeLinq.AssemblyInfoInputs.cache
+C:\Users\emiro\OneDrive\Masaüstü\LambdaVeLinq\LambdaVeLinq\obj\Debug\net6.0\LambdaVeLinq.AssemblyInfo.cs
+C:\Users\emiro\OneDrive\Masaüstü\LambdaVeLinq\LambdaVeLinq\obj\Debug\net6.0\LambdaVeLinq.csproj.CoreCompileInputs.cache
+C:\Users\emiro\OneDrive\Masaüstü\LambdaVeLinq\LambdaVeLinq\obj\Debug\net6.0\LambdaVeLinq.dll
+C:\Users\emiro\OneDrive\Masaüstü\LambdaVeLinq\LambdaVeLinq\obj\Debug\net6.0\ref\LambdaVeLinq.dll
+C:\Users\emiro\OneDrive\Masaüstü\LambdaVeLinq\LambdaVeLinq\obj\Debug\net6.0\LambdaVeLinq.pdb
+C:\Users\emiro\OneDrive\Masaüstü\LambdaVeLinq\LambdaVeLinq\obj\Debug\net6.0\LambdaVeLinq.genruntimeconfig.cache
