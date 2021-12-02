@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f7c6ab25-d363-43de-a4a7-a20efae7c7e4": {
+      "ProjectGuid": "f7c6ab25-d363-43de-a4a7-a20efae7c7e4",
+      "DisplayName": "Uygulama7",
+      "ColorIndex": 0
+    },
+    "e959f876-6181-4b4a-a7a9-f5643467a496": {
+      "ProjectGuid": "e959f876-6181-4b4a-a7a9-f5643467a496",
+      "DisplayName": "Denemeler",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
