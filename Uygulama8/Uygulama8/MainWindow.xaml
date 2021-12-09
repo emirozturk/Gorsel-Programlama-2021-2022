@@ -1,0 +1,29 @@
+﻿<Window x:Class="Uygulama8.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Uygulama8"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="8*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="6,6,6,6">
+            <Label Content="Ad Soyad:"/>
+            <TextBox x:Name="TbAdSoyad" Width="150" Height="22"/>
+        </StackPanel>
+        <ListBox Grid.Row="1" x:Name="LbKisiler" Margin="6,6,6,6" />
+        <StackPanel Grid.Row="2" Margin="6,6,6,6" Orientation="Horizontal">
+            <Button x:Name="BtnEkle" Content="Ekle" Width="50" Margin="0 0 30 0" Click="BtnEkle_Click"/>
+            <Button x:Name="BtnGuncelle" Content="Güncelle" Width="50" Margin="0 0 30 0" Click="BtnGuncelle_Click"/>
+            <Button x:Name="BtnSil" Content="Sil" Width="50" Click="BtnSil_Click" />
+        </StackPanel>
+    </Grid>
+</Window>
