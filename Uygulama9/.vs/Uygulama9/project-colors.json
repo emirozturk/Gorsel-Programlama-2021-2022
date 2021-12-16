@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c899c9a8-4299-425d-83a9-44435fd08586": {
+      "ProjectGuid": "c899c9a8-4299-425d-83a9-44435fd08586",
+      "DisplayName": "Uygulama9",
+      "ColorIndex": 0
+    },
+    "6f99156f-1e64-4c5e-81f0-2d7b0df8d4fe": {
+      "ProjectGuid": "6f99156f-1e64-4c5e-81f0-2d7b0df8d4fe",
+      "DisplayName": "UnitTestleri",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
