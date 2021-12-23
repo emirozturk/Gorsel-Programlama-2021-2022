@@ -1,0 +1,28 @@
+﻿<Window x:Class="Uygulama11.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Uygulama11"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid ButtonBase.Click="Grid_Click">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Border BorderThickness="1" BorderBrush="Black" Margin="5" Grid.Column="0">
+            <StackPanel>
+                <Label FontSize="24" Content="Eklenecek" Margin="5" />
+                <ListBox x:Name="LbEklenecek" ButtonBase.Click="LbEklenecek_Click"/>
+            </StackPanel>
+        </Border>
+        <Border BorderThickness="1" BorderBrush="Black" Margin="5" Grid.Column="1">
+            <StackPanel>
+                <Label FontSize="24" Content="Eklenen" Margin="5"/>
+                <ListBox x:Name="LbEklenen" ButtonBase.Click="LbEklenen_Click" />
+            </StackPanel>
+
+        </Border>
+    </Grid>
+</Window>
